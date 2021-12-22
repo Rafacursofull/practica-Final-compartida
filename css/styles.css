@@ -5,12 +5,17 @@ body {
 }
 
 header {
+  font-size: 2em;
+  color:yellow;
   background-color:green;
   text-align:center;
+  padding-top: 1em;
+  padding-botton: 1em;
 }
 
-header h1 {
+h1 {
   color:orange;
+  font-weight: 500;
 }
 
 main {
